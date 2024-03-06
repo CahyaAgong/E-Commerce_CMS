@@ -1,3 +1,12 @@
+## Pay Attention
+This is hybrid laravel + react + vite project, so for after clone, install all package from npm and composer : 
+`composer install` and `npm install`
+
+then run : `npm start`
+
+SQL & DEMO : https://drive.google.com/drive/folders/1WciVbMwXIOum4dz67BiBx0Ijzdz8XFqD?usp=sharing
+### Thank You
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
