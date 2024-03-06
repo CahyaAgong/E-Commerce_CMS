@@ -1,0 +1,11 @@
+.table-custom {
+    @apply w-full text-center;
+}
+
+.table-custom th, td {
+    @apply py-3;
+}
+
+.table-custom td img {
+    @apply mx-auto;
+}
